@@ -15,3 +15,10 @@
 .card img{
     height: 400px;
 }
+.text{
+    text-decoration: none;
+    color: white;
+}
+.text:hover{
+    color: white;
+}
